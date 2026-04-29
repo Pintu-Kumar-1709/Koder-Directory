@@ -1,0 +1,36 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+button {
+  font-size: 30px;
+  padding: 10px 20px;
+  border-radius: 15px;
+  border: 2px solid blue;
+  margin: 10px;
+  cursor: pointer;
+}
+
+h1 {
+  background-color: yellowgreen;
+  width: fit-content;
+  border-radius: 10px;
+  border: 2px solid rgb(34, 34, 195);
+  padding: 10px 15px;
+  margin: 30px ;
+  font-weight: 600;
+}
+
+
